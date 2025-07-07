@@ -14,6 +14,7 @@ If a member **"Tom"** makes changes to the home page file **"index.html"** to up
 ## Introducing Git: A Leading Version Control System
 Git is a tool that helps people work together on computer projects like building a website. Think of it as a shared folder on your computer but much smarter. It keeps track of all the changes everyone makes, so if something goes wrong you can always go back to a version that worked. It also allows everyone work on their parts at the same time without getting on each other's way.
 Git helps prevent mix-ups in project documentation.
+![user dash](./img/dash.png)
 
 ## Conceptualising Git SetUp with Tom and Jerry.
 1. Initial Setup
